@@ -1,0 +1,9 @@
+.fotopessoa {
+    max-width: 200px;
+    min-width: 200px;
+    float: right;
+}
+
+.equipee {
+    margin-top: 10px;
+}

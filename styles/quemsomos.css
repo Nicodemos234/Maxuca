@@ -1,0 +1,10 @@
+.text-left {
+    max-width: 40%;
+    text-align: justify;
+    display: inline-block;
+}
+
+.img-right {
+    max-width: 50%;
+    margin-bottom: 30px;
+}
